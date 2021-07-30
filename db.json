@@ -1,0 +1,36 @@
+{
+  "barang": [
+    {
+      "nama": "Headset",
+      "harga_beli": "200000",
+      "harga_jual": "150000",
+      "foto": "headset.jpg",
+      "stok": "2",
+      "id": 1
+    },
+    {
+      "nama": "Buku",
+      "harga_beli": "25000",
+      "harga_jual": "20000",
+      "foto": "buku.jpg",
+      "stok": "4",
+      "id": 2
+    },
+    {
+      "nama": "Laptop",
+      "harga_beli": "14000000",
+      "harga_jual": "12000000",
+      "foto": "laptop.jpg",
+      "stok": "2",
+      "id": 3
+    },
+    {
+      "nama": "HP",
+      "harga_beli": "5000000",
+      "harga_jual": "4000000",
+      "foto": "hp.jpg",
+      "stok": "4",
+      "id": 4
+    }
+  ]
+}
